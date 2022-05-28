@@ -1,0 +1,15 @@
+﻿  Event .cpp
+  User.cpp
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(214,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(215,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(287,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(288,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(367,21): warning C4018: '<': signed/unsigned mismatch
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(464,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(465,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\User.cpp(556,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Event_scheduele_by_map.vcxproj -> D:\Java_Gui_course\Projects\scedule_gui\event_scd_cpp\map_ev_scd\Event_scheduele_by_map\Debug\Event_scheduele_by_map.exe
